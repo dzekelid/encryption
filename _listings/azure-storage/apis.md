@@ -23,7 +23,7 @@ apis:
   tags: Encryption
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/encryption/master/_listings/azure-storage/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-storsimple-managers-managername-listprivateencryptionkey-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/encryption/master/_listings/azure-storage/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-storsimple-managers-managername-listpublicencryptionkey-post.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/storage/
