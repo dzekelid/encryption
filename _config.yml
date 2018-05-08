@@ -4,7 +4,7 @@ url: encryption.streamdata.gallery
 tag: Encryption
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
+github_user: streamdata-gallery-topics
 github_repo: encryption
 github_branch: master
 collections:
