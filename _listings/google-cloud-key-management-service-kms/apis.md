@@ -30,7 +30,38 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/encryption/master/_listings/google-cloud-key-management-service-kms/v1-name-encrypt-post.md
+- name: Google Cloud Key Management Service API Encrypt Data
+  description: Encrypt data, so that it can only be recovered by a call to Decrypt.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kms-lead.png
+  humanURL: https://cloud.google.com/kms/
+  baseURL: http:://cloudkms.googleapis.com//
+  tags: Encryption
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/encryption/master/_listings/google-cloud-key-management-service-kms/v1-name-encrypt-post.md
 x-common:
+- type: x-change-log
+  url: https://cloud.google.com/kms/docs/release-notes
+- type: x-code
+  url: https://cloud.google.com/kms/docs/reference/libraries
+- type: x-concepts
+  url: https://cloud.google.com/kms/docs/concepts
+- type: x-getting-started
+  url: https://cloud.google.com/kms/docs/quickstart
+- type: x-how-to-guides
+  url: https://cloud.google.com/kms/docs/how-tos
+- type: x-issues
+  url: https://cloud.google.com/kms/known-issues
+- type: x-pricing
+  url: https://cloud.google.com/kms/pricing
+- type: x-rate-limits
+  url: https://cloud.google.com/kms/quota
+- type: x-service-level-agreement
+  url: https://cloud.google.com/kms/sla
+- type: x-support
+  url: https://cloud.google.com/kms/docs/support
+- type: x-website
+  url: https://cloud.google.com/kms/
 - type: x-change-log
   url: https://cloud.google.com/kms/docs/release-notes
 - type: x-code
