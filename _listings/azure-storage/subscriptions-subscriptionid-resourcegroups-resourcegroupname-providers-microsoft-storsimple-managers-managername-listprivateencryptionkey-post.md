@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: StorSimpleSeries8000ManagementClient
+  title: Azure Storage API Managers Get Private Encryption Key
   version: 1.0.0
+  description: Returns the symmetric encrypted private encryption key of the manager.
 host: management.azure.com
 basePath: /
 schemes:
