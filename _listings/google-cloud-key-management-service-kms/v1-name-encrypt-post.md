@@ -1,9 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: Google Cloud Key Management Service (KMS)
-  description: Manages encryption for your cloud services the same way you do on-premise.
-    You can generate, use, rotate, and destroy AES256 encryption keys.
+  title: Google Cloud Key Management Service API Encrypt Data
+  description: Encrypt data, so that it can only be recovered by a call to Decrypt.
   contact:
     name: Google
     url: https://google.com
