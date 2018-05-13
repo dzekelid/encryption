@@ -24,17 +24,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/encryption/master/_listings/azure-storage/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-storsimple-managers-managername-listpublicencryptionkey-post.md
-- name: Azure Storage API Managers Get Private Encryption Key
-  description: Returns the symmetric encrypted private encryption key of the manager.
+- name: Azure Storage API Managers Get Public Encryption Key
+  description: Returns the symmetric encrypted public encryption key of the manager.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-storage.png
   humanURL: https://azure.microsoft.com/en-us/services/storage/
   baseURL: http:://management.azure.com//
   tags: Encryption
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/encryption/master/_listings/azure-storage/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-storsimple-managers-managername-listprivateencryptionkey-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/encryption/master/_listings/azure-storage/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-storsimple-managers-managername-listpublicencryptionkey-post.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/encryption/master/_listings/azure-storage/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-storsimple-managers-managername-listprivateencryptionkey-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/encryption/master/_listings/azure-storage/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-storsimple-managers-managername-listpublicencryptionkey-post-postman.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/storage/
